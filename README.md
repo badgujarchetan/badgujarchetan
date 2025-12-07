@@ -3,7 +3,9 @@
 
 
 # 💫 About Me:
-i am full stack developer currently working in as a full stack developer at Qviple and foucs to build website moden day
+I am a Full Stack Developer currently working at **Qviple**, specializing in building modern, scalable and high-performance web applications. I love solving real-world problems with clean architecture and efficient backend systems.  
+
+My primary focus is to develop modern web experiences using the MERN stack and continuously improve myself in advanced backend engineering, microservices, and cloud deployment.  
 
 
 ## 🌐 Socials:
