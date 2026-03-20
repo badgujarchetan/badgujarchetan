@@ -14,12 +14,7 @@ I believe in writing **clean, maintainable code** and building products that tru
 
 ---
 
-## 🌐 Connect With Me  
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Chetan_badgujar96k)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-badgujar-65192725b/)
-
----
 
 ## 💻 Tech Stack  
 
