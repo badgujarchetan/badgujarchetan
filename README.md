@@ -1,102 +1,53 @@
 <h1 align="center">Hi 👋, I'm Chetan Badgujar</h1>
 
-<h3 align="center">🚀 Full Stack Developer | Next.js Developer | MERN Stack | Backend Engineer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=badgujarchetan&label=Profile%20views&color=0e75b6&style=flat" alt="badgujarchetan" />
-</p>
+<h3 align="center">Full Stack Developer | MERN Stack | Next.js | Backend Engineer</h3>
 
 ---
 
-## 💫 About Me
+## About Me
 
-I am a passionate **Full Stack Developer** who loves building **scalable, secure, and high-performance web applications**.
+I am a **Full Stack Developer** focused on building scalable and high-performance web applications.
+I enjoy solving real-world problems using clean architecture, optimized APIs, and efficient database design.
 
-I enjoy solving **real-world problems** using clean architecture, optimized APIs, and efficient database design.
-
-💡 My core expertise lies in the **MERN stack**, and I am continuously improving my skills in:
-
-* Advanced Backend Engineering
-* System Design
-* Microservices
-* Cloud Deployment
-
-I believe in writing **clean, maintainable code** and building products that create real impact 🚀
+I have strong experience in the **MERN stack** and I am continuously improving my skills in backend development, system design, and cloud technologies.
 
 ---
 
-## 🌐 Connect with Me
+## Tech Stack
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR-LINK" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" /></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="40" /></a>
-</p>
+**Frontend:**
+HTML, CSS, JavaScript, TypeScript, React, Next.js
 
----
+**Backend:**
+Node.js, Express.js, REST APIs, JWT Authentication
 
-## 💻 Tech Stack
-
-### 🚀 Frontend
-
-HTML • CSS • JavaScript • TypeScript • React • Next.js • Redux • React Query • React Router • Vite • Bootstrap
-
-### ⚙️ Backend
-
-Node.js • Express.js • FastAPI • REST APIs • JWT Authentication
-
-### 🗄️ Database
-
+**Database:**
 MongoDB
 
-### 🛠️ Tools & Others
-
-Firebase • Figma • Git • Nodemon
-
-### 📊 Data & Analytics
-
-Python • NumPy • Pandas • Matplotlib • Scikit-learn • Power BI
+**Tools:**
+Git, Firebase, Figma
 
 ---
 
-## 🚀 What I’m Focused On
+## Projects
 
-* 🔹 Building production-ready full-stack applications
-* 🔹 Designing scalable backend architectures
-* 🔹 Writing secure and optimized APIs
-* 🔹 Learning system design & cloud technologies
-* 🔹 Improving performance & code quality
+* Built a **Full Stack Blog Application** with authentication and admin panel
+* Implemented **Google Login & JWT Authentication**
+* Developed **RESTful APIs** with secure backend architecture
 
 ---
 
-## 📊 GitHub Stats
+## What I’m Focused On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=badgujarchetan&show_icons=true&theme=tokyonight" alt="stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badgujarchetan&theme=tokyonight" alt="streak" />
-</p>
+* Building production-ready applications
+* Writing clean and maintainable code
+* Improving backend and system design skills
 
 ---
 
-## 🔝 Top Contributed Repositories
+## Contact
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=badgujarchetan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
+* Email: [badgujarchetan716@gmail.com](mailto:badgujarchetan716@gmail.com)
 
----
-
-## 🧠 Quote I Believe In
-
-> "First, solve the problem. Then, write the code." – John Johnson
 
 ---
-
-## ⚡ Fun Fact
-
-💻 I love turning ideas into real-world scalable applications
-🚀 Always learning something new every day
-
----
-
-<!-- Designed with ❤️ by Chetan Badgujar -->
